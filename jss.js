@@ -1,0 +1,1 @@
+let funcaoa = new funcao();
